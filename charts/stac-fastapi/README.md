@@ -1,0 +1,1 @@
+This helm chart will deploy [STAC Fast-API](https://github.com/stac-utils/stac-fastapi) onto a Kubernetes cluster.
