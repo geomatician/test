@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   stac-fastapi:
   - apiVersion: v1
+    created: "2023-04-10T21:10:45.825440951Z"
+    description: A Helm Chart for STAC-FastAPI - this is version 0.0.6 (https://github.com/stac-utils/stac-fastapi)
+    digest: dd8f885d0259e290315cf6ab933e69fea22417f1037f7198c0d74feac2670d26
+    keywords:
+    - stac-fastapi
+    name: stac-fastapi
+    urls:
+    - https://github.com/geomatician/test/releases/download/stac-fastapi-0.0.6/stac-fastapi-0.0.6.tgz
+    version: 0.0.6
+  - apiVersion: v1
     created: "2023-04-10T21:04:12.24433617Z"
     description: A Helm Chart for STAC-FastAPI - this is version 0.0.5 (https://github.com/stac-utils/stac-fastapi)
     digest: f54245dbeb5897f5761eb6b3f452fd66b0408dd2ef563a774f63b1fe1423f5d9
@@ -41,4 +51,4 @@ entries:
     urls:
     - https://geomatician.github.io/test/stac-fastapi-0.0.1.tgz
     version: 0.0.1
-generated: "2023-04-10T21:04:12.24435517Z"
+generated: "2023-04-10T21:10:45.825468452Z"
